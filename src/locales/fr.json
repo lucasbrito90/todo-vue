@@ -1,0 +1,5 @@
+{
+  "add": "ajouter",
+  "add-label" : "Ajouter un nouvel élément...",
+  "emptytask" : "pas encore de tâches | tu as une tâche | tu as {n} tâches"
+}

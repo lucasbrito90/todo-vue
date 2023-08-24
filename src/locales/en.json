@@ -1,0 +1,5 @@
+{
+  "add": "add",
+  "add-label" : "Add a new item...",
+  "emptytask" : "no tasks yet | you have one task | you have {n} tasks"
+}
