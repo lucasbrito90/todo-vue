@@ -1,16 +1,6 @@
 {
   "todos": [
     {
-      "title": "new task",
-      "completed": false,
-      "id": 1
-    },
-    {
-      "title": "new task 2",
-      "completed": false,
-      "id": 2
-    },
-    {
       "title": "new task 3",
       "completed": false,
       "id": 3
